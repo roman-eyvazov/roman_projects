@@ -28,3 +28,5 @@ https://stepik.org/cert/2988024
 https://stepik.org/cert/3019444
 13. Добрый, добрый ИИ. Часть 2. Нейронные сети на PyTorch
 https://stepik.org/cert/3036709
+14. Лучший по Python. Для всех начинающих!
+https://stepik.org/cert/3047138
