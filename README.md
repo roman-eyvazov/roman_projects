@@ -30,3 +30,9 @@ https://stepik.org/cert/3019444
 https://stepik.org/cert/3036709
 14. Лучший по Python. Для всех начинающих!
 https://stepik.org/cert/3047138
+15. Машинное обучение
+https://stepik.org/cert/3053415
+16. Теория вероятностей
+https://stepik.org/cert/3066828
+17. Интерактивный тренажер по SQL
+https://stepik.org/cert/3085981
