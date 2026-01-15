@@ -2,6 +2,7 @@
 
 👨‍🎓 Информация о пройденных курсах:
 
+**Stepik**
 1. Основы статистики
 https://stepik.org/cert/2861037
 2. "Поколение Python": курс для начинающих
@@ -36,3 +37,19 @@ https://stepik.org/cert/3053415
 https://stepik.org/cert/3066828
 17. Интерактивный тренажер по SQL
 https://stepik.org/cert/3085981
+
+**Kaggle**
+1. Feature Engineering
+https://www.kaggle.com/learn/certification/romaneyvazov/feature-engineering
+2. Data Cleaning
+https://www.kaggle.com/learn/certification/romaneyvazov/data-cleaning
+3. Pandas
+https://www.kaggle.com/learn/certification/romaneyvazov/pandas
+4. Data Visualization
+https://www.kaggle.com/learn/certification/romaneyvazov/data-visualization
+5. Intro to Machine Learning
+https://www.kaggle.com/learn/certification/romaneyvazov/intro-to-machine-learning
+6. Python
+https://www.kaggle.com/learn/certification/romaneyvazov/python
+7. Intro to Programming
+https://www.kaggle.com/learn/certification/romaneyvazov/intro-to-programming
