@@ -37,6 +37,14 @@ https://stepik.org/cert/3053415
 https://stepik.org/cert/3066828
 17. Интерактивный тренажер по SQL
 https://stepik.org/cert/3085981
+18. PROкод: продвинутый курс по Python
+https://stepik.org/cert/3096109
+19. ООП Python: Часть 1
+https://stepik.org/cert/3098233
+20. ООП Python: Часть 2
+https://stepik.org/cert/3107533
+21. Введение в SQL
+https://stepik.org/cert/3098391
 
 **Kaggle**
 1. Feature Engineering
