@@ -46,6 +46,7 @@ https://stepik.org/cert/3107533
 21. Введение в SQL
 https://stepik.org/cert/3098391
 22. Основы компьютерного зрения: мир глазами машины
+https://stepik.org/course/231644/syllabus
 
 **Kaggle**
 1. Feature Engineering
