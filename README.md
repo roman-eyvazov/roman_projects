@@ -49,6 +49,10 @@ https://stepik.org/cert/3098391
 https://stepik.org/course/231644/syllabus
 23. SQL Start
 https://stepik.org/cert/3114478
+24. Курс SQL часть 1. Основы и работа с данными
+https://stepik.org/course/256007/syllabus
+25. Курс SQL часть 2. Продвинутые запросы и объединение таблиц
+https://stepik.org/course/257029/syllabus
 
 **Kaggle**
 1. Feature Engineering
