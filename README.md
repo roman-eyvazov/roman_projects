@@ -53,6 +53,8 @@ https://stepik.org/cert/3114478
 https://stepik.org/course/256007/syllabus
 25. Курс SQL часть 2. Продвинутые запросы и объединение таблиц
 https://stepik.org/course/257029/syllabus
+26. Декораторы в Python – от основ до практического применения
+https://stepik.org/course/260212/syllabus
 
 **Kaggle**
 1. Feature Engineering
