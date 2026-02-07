@@ -55,6 +55,8 @@ https://stepik.org/course/256007/syllabus
 https://stepik.org/course/257029/syllabus
 26. Декораторы в Python – от основ до практического применения
 https://stepik.org/course/260212/syllabus
+27. Курс по Numpy — Твой путь в AI
+https://stepik.org/cert/3123292
 
 **Kaggle**
 1. Feature Engineering
