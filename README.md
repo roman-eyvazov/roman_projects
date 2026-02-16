@@ -57,6 +57,8 @@ https://stepik.org/course/257029/syllabus
 https://stepik.org/course/260212/syllabus
 27. Курс по Numpy — Твой путь в AI
 https://stepik.org/cert/3123292
+28. Python - Модуль 4 (ООП)
+https://stepik.org/cert/3115141
 
 **Kaggle**
 1. Feature Engineering
