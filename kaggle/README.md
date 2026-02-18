@@ -10,3 +10,6 @@ https://www.kaggle.com/competitions/playground-series-s5e9
 
 4. Data Science London + Scikit-learn
 https://www.kaggle.com/competitions/data-science-london-scikit-learn
+
+5. Predicting Student Test Scores
+https://www.kaggle.com/competitions/playground-series-s6e1
