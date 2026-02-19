@@ -59,6 +59,8 @@ https://stepik.org/course/260212/syllabus
 https://stepik.org/cert/3123292
 28. Python - Модуль 4 (ООП)
 https://stepik.org/cert/3115141
+29. SQL практикум. Основы
+https://stepik.org/cert/3135312
 
 **Kaggle**
 1. Feature Engineering
