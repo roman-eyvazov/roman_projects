@@ -61,6 +61,8 @@ https://stepik.org/cert/3123292
 https://stepik.org/cert/3115141
 29. SQL практикум. Основы
 https://stepik.org/cert/3135312
+30. Numpy для анализа данных
+https://stepik.org/cert/3145525
 
 **Kaggle**
 1. Feature Engineering
