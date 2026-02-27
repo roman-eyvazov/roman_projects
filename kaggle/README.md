@@ -13,3 +13,6 @@ https://www.kaggle.com/competitions/data-science-london-scikit-learn
 
 5. Predicting Student Test Scores
 https://www.kaggle.com/competitions/playground-series-s6e1
+
+6. How machine sees
+https://www.kaggle.com/competitions/how-machine-sees/data
