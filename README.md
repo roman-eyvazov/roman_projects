@@ -65,6 +65,8 @@ https://stepik.org/cert/3135312
 https://stepik.org/cert/3145525
 31. Python-марафон для новичков 300 задач
 https://stepik.org/course/257482/syllabus
+32. Машинное Обучение в Python: Большой Курс для Начинающих
+https://stepik.org/cert/3160819
 
 **Kaggle**
 1. Feature Engineering
