@@ -67,6 +67,8 @@ https://stepik.org/cert/3145525
 https://stepik.org/course/257482/syllabus
 32. Машинное Обучение в Python: Большой Курс для Начинающих
 https://stepik.org/cert/3160819
+33. Осваиваем Pandas: введение в анализ данных
+https://stepik.org/cert/3163917
 
 **Kaggle**
 1. Feature Engineering
