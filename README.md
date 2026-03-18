@@ -71,6 +71,8 @@ https://stepik.org/cert/3160819
 https://stepik.org/cert/3163917
 34. Компьютерное зрение / библиотека OpenCV
 https://stepik.org/course/116539/syllabus
+35. Теория вероятностей. Часть 1
+https://stepik.org/course/264013/syllabus
 
 **Kaggle**
 1. Feature Engineering
