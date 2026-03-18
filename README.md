@@ -69,6 +69,8 @@ https://stepik.org/course/257482/syllabus
 https://stepik.org/cert/3160819
 33. Осваиваем Pandas: введение в анализ данных
 https://stepik.org/cert/3163917
+34. Компьютерное зрение / библиотека OpenCV
+https://stepik.org/course/116539/syllabus
 
 **Kaggle**
 1. Feature Engineering
