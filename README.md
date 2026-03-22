@@ -73,6 +73,8 @@ https://stepik.org/cert/3163917
 https://stepik.org/course/116539/syllabus
 35. Теория вероятностей. Часть 1
 https://stepik.org/course/264013/syllabus
+36. Python Декораторы | Практика (и немного теории)
+https://stepik.org/course/185957/syllabus
 
 **Kaggle**
 1. Feature Engineering
