@@ -75,6 +75,8 @@ https://stepik.org/course/116539/syllabus
 https://stepik.org/course/264013/syllabus
 36. Python Декораторы | Практика (и немного теории)
 https://stepik.org/course/185957/syllabus
+37. Стартовый трек в ИИ
+https://stepik.org/course/194633/syllabus
 
 **Kaggle**
 1. Feature Engineering
