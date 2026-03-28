@@ -79,6 +79,8 @@ https://stepik.org/course/185957/syllabus
 https://stepik.org/course/194633/syllabus
 38. Основы асинхронного Python: async, await и asyncio
 https://stepik.org/course/258192/syllabus
+39. Комбинаторика на пальцах
+https://stepik.org/course/264540/syllabus
 
 **Kaggle**
 1. Feature Engineering
