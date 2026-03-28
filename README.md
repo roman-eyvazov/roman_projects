@@ -77,6 +77,8 @@ https://stepik.org/course/264013/syllabus
 https://stepik.org/course/185957/syllabus
 37. Стартовый трек в ИИ
 https://stepik.org/course/194633/syllabus
+38. Основы асинхронного Python: async, await и asyncio
+https://stepik.org/course/258192/syllabus
 
 **Kaggle**
 1. Feature Engineering
