@@ -81,6 +81,8 @@ https://stepik.org/course/194633/syllabus
 https://stepik.org/course/258192/syllabus
 39. Комбинаторика на пальцах
 https://stepik.org/course/264540/syllabus
+40. Python: Регулярные выражения (RegEx) с нуля
+https://stepik.org/course/262749/syllabus
 
 **Kaggle**
 1. Feature Engineering
