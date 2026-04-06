@@ -83,6 +83,8 @@ https://stepik.org/course/258192/syllabus
 https://stepik.org/course/264540/syllabus
 40. Python: Регулярные выражения (RegEx) с нуля
 https://stepik.org/course/262749/syllabus
+41. Осознанный Python — Продвинутый
+https://stepik.org/course/273022/syllabus
 
 **Kaggle**
 1. Feature Engineering
