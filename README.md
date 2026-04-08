@@ -85,6 +85,8 @@ https://stepik.org/course/264540/syllabus
 https://stepik.org/course/262749/syllabus
 41. Осознанный Python — Продвинутый
 https://stepik.org/course/273022/syllabus
+42. Линейная алгебра для Data Science и Machine Learning
+https://stepik.org/course/265914/syllabus
 
 **Kaggle**
 1. Feature Engineering
