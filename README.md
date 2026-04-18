@@ -87,6 +87,8 @@ https://stepik.org/course/262749/syllabus
 https://stepik.org/course/273022/syllabus
 42. Линейная алгебра для Data Science и Machine Learning
 https://stepik.org/course/265914/syllabus
+43. Введение в обработку текста на Python (NLP)
+https://stepik.org/course/182099/syllabus
 
 **Kaggle**
 1. Feature Engineering
