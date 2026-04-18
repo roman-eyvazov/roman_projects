@@ -89,6 +89,8 @@ https://stepik.org/course/273022/syllabus
 https://stepik.org/course/265914/syllabus
 43. Введение в обработку текста на Python (NLP)
 https://stepik.org/course/182099/syllabus
+44. МО NLP
+https://stepik.org/course/263260/syllabus
 
 **Kaggle**
 1. Feature Engineering
