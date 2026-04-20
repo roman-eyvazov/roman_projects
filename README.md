@@ -91,6 +91,8 @@ https://stepik.org/course/265914/syllabus
 https://stepik.org/course/182099/syllabus
 44. МО NLP
 https://stepik.org/course/263260/syllabus
+45. Практический Тренажер по SQL
+https://stepik.org/course/279399/syllabus
 
 **Kaggle**
 1. Feature Engineering
