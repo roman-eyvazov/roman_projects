@@ -93,6 +93,8 @@ https://stepik.org/course/182099/syllabus
 https://stepik.org/course/263260/syllabus
 45. Практический Тренажер по SQL
 https://stepik.org/course/279399/syllabus
+46. ML ЗА 3 ДНЯ
+https://stepik.org/course/243903/syllabus
 
 **Kaggle**
 1. Feature Engineering
