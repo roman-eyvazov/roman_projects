@@ -95,6 +95,8 @@ https://stepik.org/course/263260/syllabus
 https://stepik.org/course/279399/syllabus
 46. ML ЗА 3 ДНЯ
 https://stepik.org/course/243903/syllabus
+47. Нейронные сети и компьютерное зрение
+https://stepik.org/cert/3171332
 
 **Kaggle**
 1. Feature Engineering
