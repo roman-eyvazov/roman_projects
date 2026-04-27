@@ -97,6 +97,8 @@ https://stepik.org/course/279399/syllabus
 https://stepik.org/course/243903/syllabus
 47. Нейронные сети и компьютерное зрение
 https://stepik.org/cert/3171332
+48. ML Road: Machine Learning с нуля
+https://stepik.org/course/281722/syllabus
 
 **Kaggle**
 1. Feature Engineering
