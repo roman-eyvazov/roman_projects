@@ -16,3 +16,6 @@ https://www.kaggle.com/competitions/playground-series-s6e1
 
 6. How machine sees
 https://www.kaggle.com/competitions/how-machine-sees/data
+
+7. Cleaned vs Dirty V2
+https://www.kaggle.com/competitions/platesv2
