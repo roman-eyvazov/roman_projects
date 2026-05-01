@@ -19,3 +19,6 @@ https://www.kaggle.com/competitions/how-machine-sees/data
 
 7. Cleaned vs Dirty V2
 https://www.kaggle.com/competitions/platesv2
+
+8. Russia Real Estate Analysis
+https://www.kaggle.com/code/romaneyvazov/russia-real-estate-analysis
