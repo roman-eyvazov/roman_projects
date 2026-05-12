@@ -99,6 +99,8 @@ https://stepik.org/course/243903/syllabus
 https://stepik.org/cert/3171332
 48. ML Road: Machine Learning с нуля
 https://stepik.org/course/281722/syllabus
+49. Демо-курс "База ML"
+https://stepik.org/course/218409/syllabus
 
 **Kaggle**
 1. Feature Engineering
