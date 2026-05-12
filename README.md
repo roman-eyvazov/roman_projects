@@ -101,6 +101,8 @@ https://stepik.org/cert/3171332
 https://stepik.org/course/281722/syllabus
 49. Демо-курс "База ML"
 https://stepik.org/course/218409/syllabus
+50. Специальные архитектуры нейронных сетей (введение в CNN, RNN, NLP)
+https://stepik.org/cert/3221634
 
 **Kaggle**
 1. Feature Engineering
