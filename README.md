@@ -103,6 +103,8 @@ https://stepik.org/course/281722/syllabus
 https://stepik.org/course/218409/syllabus
 50. Специальные архитектуры нейронных сетей (введение в CNN, RNN, NLP)
 https://stepik.org/cert/3221634
+51. Осознанный Python — ООП
+https://stepik.org/cert/3242452
 
 **Kaggle**
 1. Feature Engineering
