@@ -105,6 +105,8 @@ https://stepik.org/course/218409/syllabus
 https://stepik.org/cert/3221634
 51. Осознанный Python — ООП
 https://stepik.org/cert/3242452
+52. TensorFlow: создай свою первую нейронную сеть
+https://stepik.org/course/224259/syllabus
 
 **Kaggle**
 1. Feature Engineering
