@@ -107,6 +107,8 @@ https://stepik.org/cert/3221634
 https://stepik.org/cert/3242452
 52. TensorFlow: создай свою первую нейронную сеть
 https://stepik.org/course/224259/syllabus
+53. OVER (оконки): SQL для Избранных
+https://stepik.org/course/257140/syllabus
 
 **Kaggle**
 1. Feature Engineering
