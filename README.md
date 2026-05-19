@@ -109,6 +109,8 @@ https://stepik.org/cert/3242452
 https://stepik.org/course/224259/syllabus
 53. OVER (оконки): SQL для Избранных
 https://stepik.org/course/257140/syllabus
+54. Продуктовая аналитика - МатСтат
+https://stepik.org/course/255807/syllabus
 
 **Kaggle**
 1. Feature Engineering
