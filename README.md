@@ -111,6 +111,8 @@ https://stepik.org/course/224259/syllabus
 https://stepik.org/course/257140/syllabus
 54. Продуктовая аналитика - МатСтат
 https://stepik.org/course/255807/syllabus
+55. Форматирование строк в Python: от основ до мастерства
+https://stepik.org/course/258630/syllabus
 
 **Kaggle**
 1. Feature Engineering
