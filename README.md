@@ -115,6 +115,8 @@ https://stepik.org/course/255807/syllabus
 https://stepik.org/course/258630/syllabus
 56. Статистика для (не) аналитиков
 https://stepik.org/course/262824/syllabus
+57. Математика для олимпиад по программированию
+https://stepik.org/certificate/084955e36efc6b5952594edb3d794744f1ba5477.pdf
 
 **Kaggle**
 1. Feature Engineering
