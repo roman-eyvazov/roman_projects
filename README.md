@@ -117,6 +117,8 @@ https://stepik.org/course/258630/syllabus
 https://stepik.org/course/262824/syllabus
 57. Математика для олимпиад по программированию
 https://stepik.org/cert/3267032
+58. Введение в OpenCV на Python
+https://stepik.org/cert/3278548
 
 **Kaggle**
 1. Feature Engineering
