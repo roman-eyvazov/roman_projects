@@ -119,6 +119,8 @@ https://stepik.org/course/262824/syllabus
 https://stepik.org/cert/3267032
 58. Введение в OpenCV на Python
 https://stepik.org/cert/3278548
+59. ООП Python
+https://stepik.org/course/272786/syllabus
 
 **Kaggle**
 1. Feature Engineering
