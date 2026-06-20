@@ -92,7 +92,7 @@ https://stepik.org/course/182099/syllabus
 44. МО NLP
 https://stepik.org/course/263260/syllabus
 45. Практический Тренажер по SQL
-https://stepik.org/course/279399/syllabus
+https://stepik.org/cert/3287025
 46. ML ЗА 3 ДНЯ
 https://stepik.org/course/243903/syllabus
 47. Нейронные сети и компьютерное зрение
