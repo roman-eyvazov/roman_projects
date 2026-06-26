@@ -121,6 +121,8 @@ https://stepik.org/cert/3267032
 https://stepik.org/cert/3278548
 59. ООП Python
 https://stepik.org/course/272786/syllabus
+60. Object Detection: от ТЕОРИИ до РЕАЛИЗАЦИИ
+https://stepik.org/course/224806/syllabus
 
 **Kaggle**
 1. Feature Engineering
