@@ -22,3 +22,6 @@ https://www.kaggle.com/competitions/platesv2
 
 8. Russia Real Estate Analysis
 https://www.kaggle.com/code/romaneyvazov/russia-real-estate-analysis
+
+9. News-topics-competition-2025
+https://www.kaggle.com/competitions/news-topics-competition-2025
