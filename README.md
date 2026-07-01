@@ -123,6 +123,8 @@ https://stepik.org/cert/3278548
 https://stepik.org/course/272786/syllabus
 60. Object Detection: от ТЕОРИИ до РЕАЛИЗАЦИИ
 https://stepik.org/course/224806/syllabus
+61. First Step in NLP 2.0
+https://stepik.org/course/129443/syllabus
 
 **Kaggle**
 1. Feature Engineering
