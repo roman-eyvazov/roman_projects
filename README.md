@@ -125,6 +125,8 @@ https://stepik.org/course/272786/syllabus
 https://stepik.org/course/224806/syllabus
 61. First Step in NLP 2.0
 https://stepik.org/course/129443/syllabus
+62. Введение в Data Science для чайников
+https://stepik.org/course/247968/syllabus
 
 **Kaggle**
 1. Feature Engineering
