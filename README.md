@@ -127,6 +127,8 @@ https://stepik.org/course/224806/syllabus
 https://stepik.org/course/129443/syllabus
 62. Введение в Data Science для чайников
 https://stepik.org/course/247968/syllabus
+63. Внутри LLM: как думает ChatGPT?
+https://stepik.org/course/243156/syllabus
 
 **Kaggle**
 1. Feature Engineering
